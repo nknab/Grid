@@ -1,6 +1,6 @@
 # Grid
 
-#### Folder Structure
+#### Folder and File Structure
 Factory
   - This folder contains all the codes for the robots.
   
@@ -10,6 +10,8 @@ Server
 Web App
   - This folder conatons all the codes for the Grid web application.
   
+ grid.sql
+  - This is the database structure for the project.
 
 
 The challenge imitates the Ghana Textiles Printing (GTP) production process in three major stages: Design, Production and Delivery.
