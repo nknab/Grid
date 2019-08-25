@@ -1,0 +1,108 @@
+/*
+ * File: roboto.css
+ * Project: Grid Web App
+ * File Created: Wednesday, 21st August 2019 12:51:54 PM
+ * Author: nknab
+ * Email: kojo.anyinam-boateng@alumni.ashesi.edu.gh
+ * Version: 1.0
+ * Brief: 
+ * -----
+ * Last Modified: Sunday, 25th August 2019 10:49:50 AM
+ * Modified By: nknab
+ * -----
+ * Copyright ©2019 nknab
+ */
+
+@font-face {
+  font-family: "Roboto Black";
+  src: url("../../fonts/roboto/Black/Roboto-Black.woff") format("woff"),
+    url("../../fonts/roboto/Black/Roboto-Black.woff2") format("woff2"),
+    url("../../fonts/roboto/Black/Roboto-Black.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Roboto BlackItalic";
+  src: url("../../fonts/roboto/BlackItalic/Roboto-BlackItalic.woff") format("woff"),
+    url("../../fonts/roboto/BlackItalic/Roboto-BlackItalic.woff2") format("woff2"),
+    url("../../fonts/roboto/BlackItalic/Roboto-BlackItalic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Roboto Bold";
+  src: url("../../fonts/roboto/Bold/Roboto-Bold.eot");
+  src: url("../../fonts/roboto/Bold/Roboto-Bold.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/roboto/Bold/Roboto-Bold.woff") format("woff"),
+    url("../../fonts/roboto/Bold/Roboto-Bold.woff2") format("woff2"),
+    url("../../fonts/roboto/Bold/Roboto-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Roboto BoldItalic";
+  src: url("../../fonts/roboto/BoldItalic/Roboto-BoldItalic.woff") format("woff"),
+    url("../../fonts/roboto/BoldItalic/Roboto-BoldItalic.woff2") format("woff2"),
+    url("../../fonts/roboto/BoldItalic/Roboto-BoldItalic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Roboto Italic";
+  src: url("../../fonts/roboto/Italic/Roboto-Italic.woff") format("woff"),
+    url("../../fonts/roboto/Italic/Roboto-Italic.woff2") format("woff2"),
+    url("../../fonts/roboto/Italic/Roboto-Italic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Roboto Light";
+  src: url("../../fonts/roboto/Light/Roboto-Light.eot");
+  src: url("../../fonts/roboto/Light/Roboto-Light.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/roboto/Light/Roboto-Light.woff") format("woff"),
+    url("../../fonts/roboto/Light/Roboto-Light.woff2") format("woff2"),
+    url("../../fonts/roboto/Light/Roboto-Light.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Roboto LightItalic";
+  src: url("../../fonts/roboto/LightItalic/Roboto-LightItalic.woff") format("woff"),
+    url("../../fonts/roboto/LightItalic/Roboto-LightItalic.woff2") format("woff2"),
+    url("../../fonts/roboto/LightItalic/Roboto-LightItalic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Roboto Medium";
+  src: url("../../fonts/roboto/Medium/Roboto-Medium.eot");
+  src: url("../../fonts/roboto/Medium/Roboto-Medium.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/roboto/Medium/Roboto-Medium.woff") format("woff"),
+    url("../../fonts/roboto/Medium/Roboto-Medium.woff2") format("woff2"),
+    url("../../fonts/roboto/Medium/Roboto-Medium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Roboto MediumItalic";
+  src: url("../../fonts/roboto/MediumItalic/Roboto-MediumItalic.woff") format("woff"),
+    url("../../fonts/roboto/MediumItalic/Roboto-MediumItalic.woff2") format("woff2"),
+    url("../../fonts/roboto/MediumItalic/Roboto-MediumItalic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Roboto Regular";
+  src: url("../../fonts/roboto/Regular/Roboto-Regular.eot");
+  src: url("../../fonts/roboto/Regular/Roboto-Regular.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/roboto/Regular/Roboto-Regular.woff") format("woff"),
+    url("../../fonts/roboto/Regular/Roboto-Regular.woff2") format("woff2"),
+    url("../../fonts/roboto/Regular/Roboto-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Roboto Thin";
+  src: url("../../fonts/roboto/Thin/Roboto-Thin.eot");
+  src: url("../../fonts/roboto/Thin/Roboto-Thin.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/roboto/Thin/Roboto-Thin.woff") format("woff"),
+    url("../../fonts/roboto/Thin/Roboto-Thin.woff2") format("woff2"),
+    url("../../fonts/roboto/Thin/Roboto-Thin.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Roboto ThinItalic";
+  src: url("../../fonts/roboto/ThinItalic/Roboto-ThinItalic.woff") format("woff"),
+    url("../../fonts/roboto/ThinItalic/Roboto-ThinItalic.woff2") format("woff2"),
+    url("../../fonts/roboto/ThinItalic/Roboto-ThinItalic.ttf") format("truetype");
+}
