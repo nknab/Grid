@@ -31,6 +31,3 @@ The delivery stage involves two major activities: carrier transportation and dep
 
 ## BOARD DESIGN
 ![alt text](http://nknab.com/wp-content/uploads/2019/10/mat.png)
-
-## SET UP
-![alt text](http://nknab.com/wp-content/uploads/2019/08/IMG_2604.jpg)
