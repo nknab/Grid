@@ -5,10 +5,10 @@ Factory
   - This folder contains all the codes for the robots.
   
 Server
-  - This folder conatins all the codes for the server.
+  - This folder contains all the codes for the server.
   
 Web App
-  - This folder conatons all the codes for the Grid web application.
+  - This folder contains all the codes for the Grid web application.
   
  grid.sql
   - This is the database structure for the project.
